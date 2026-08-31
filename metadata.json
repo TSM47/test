@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lumina Tracker",
+  "description": "Zaawansowany tracker diety, treningów siłowych, nawyków i statystyk w stylu Bento Grid z bazą produktów, planami ćwiczeń i timerem skupienia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
